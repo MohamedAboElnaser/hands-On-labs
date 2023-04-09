@@ -80,7 +80,7 @@ h2 {
 
 section[id="recomendation"] .flex {
   display: flex;
-  justify-content: space-between;
+  justify-content: space-around;
 }
 .inner {
   border: 2px solid black;
